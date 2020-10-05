@@ -1,2 +1,2 @@
 # hacktobefest-2020
-anu
+Open to contribute
