@@ -1,2 +1,2 @@
 # hacktobefest-2020
-Open to contribute
+Open Repo to contribute in Hacktoberfest Event
